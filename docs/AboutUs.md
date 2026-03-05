@@ -13,7 +13,7 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 ### Shanice Lai
 
-<img src="images/print_shanice.png" width="200px">
+<img src="images/print-shanice.png" width="200px">
 
 
 [[github](https://github.com/print-shanice)]
